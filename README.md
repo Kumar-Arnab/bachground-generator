@@ -1,1 +1,1 @@
-# bachground-generator
+# background-generator
